@@ -96,7 +96,9 @@ TODO Hold presentasjon der du presnterer ett eller flere prosjekter
 
 - Lag et større objektorientert system som inneholder klasser, arv og objekter
 
-TODO Lim inn lenke til github-repository (side på github) med relevant kode
+DONE Lim inn lenke til github-repository (side på github) med relevant kode
+https://github.com/emelietn/it2-mappe/tree/master/dino-spill
+https://github.com/emelietn/it2-mappe/tree/master/pokemon-%20pygame
 
 ## Samfunn og systemer
 
@@ -104,7 +106,7 @@ TODO Lim inn lenke til github-repository (side på github) med relevant kode
 
 - Oppgave om etikk og konsekvenser ved bruk av IT kommer i uke 12.
 
-TODO Lever oppgave på Teams
+DONE Lever oppgave på Teams
 
 ### Standarder for lagring, utveksling og sikring av data
 
