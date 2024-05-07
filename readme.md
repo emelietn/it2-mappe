@@ -83,7 +83,8 @@ TODO Hold presentasjon der du presenterer ett eller flere prosjekter
     - en interaktiv app i terminalen
     - en web-applikasjon laget med Flask
 
-TODO Lim inn lenke til github-repository (side på github) med relevant kode
+DONE Lim inn lenke til github-repository (side på github) med relevant kode
+https://github.com/emelietn/it2-mappe
 
 ### Alternative løsninger
 
