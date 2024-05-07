@@ -112,7 +112,7 @@ DONE Lever oppgave på Teams
 
 - Gjør oppgave [2.15 - 2.17 (filhåndtering)](https://it2.thorcc.no/databehandling-og-algoritmer/filhandtering#oppgaver)
 
-TODO Lim inn lenke til oppgavebesvarelser på github.
+DONE Lim inn lenke til oppgavebesvarelser på github.
 
 2.16: https://github.com/emelietn/it2-mappe/blob/master/spotyfi.py
-2.17: 
+2.17: https://github.com/emelietn/it2-mappe/blob/master/film-imdb.ipynb
