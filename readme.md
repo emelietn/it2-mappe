@@ -21,7 +21,12 @@ DONE Avtal tidspunkt for presentasjon innen 26. april
 
 TODO Lim inn lenke til github-repository som inneholder avanserte løsninger med programmering  
 TODO Ha en presentasjon der du forklarer en _avansert_ kode
-TODO Lim inn lenke til besvarelse av oppgave 2.1 - 2.4 og 2.12 - 2.14
+DONE Lim inn lenke til besvarelse av oppgave 2.1 - 2.4 og 2.12 - 2.14
+
+lenke til besvarelse av oppgave 2.1 - 2.4 og 2.12 - 2.14:
+
+2.1-2.4: https://github.com/emelietn/it2-mappe/blob/master/oppgaver-pseudokode.md
+2.12 - 2.14: https://github.com/emelietn/it2-mappe/blob/master/oppgaver-algoritmer.md
 
 ### Gjenbrukbar kode
 
@@ -34,8 +39,11 @@ TODO: Lim inn lenke til kode som er dokumentert med docstrings
 - Gjør oppgave [3.1 - 3.12 (Pokemon-oppgaver)](https://it2.thorcc.no/apputvikling/oppgaver)
 - Gjør oppgave [2.20 (youtube) eller 2.21 (google play store)](https://it2.thorcc.no/databehandling-og-algoritmer/storre-oppgaver)
 
-TODO Gjør oppgave 2.20 eller 2.21 som øving til tentamen  
-TODO Lim inn lenke til besvarelse av oppgave 3.1 - 3.12
+DONE Gjør oppgave 2.20 eller 2.21 som øving til tentamen 
+https://github.com/emelietn/it2-mappe/tree/master/youtube
+
+DONE Lim inn lenke til besvarelse av oppgave 3.1 - 3.12
+https://github.com/emelietn/it2-mappe/tree/master/pokemon-spill-%20oppgave
 
 ### Vern mot kjøretidsfeil og logiske feil i programmer
 
