@@ -83,8 +83,8 @@ ENDFOR
 
 Velg de to riktige løsningene.
 
-- [ ] 1
-- [ ] 2
+- [X] 1
+- [X] 2
 - [ ] 3
 - [ ] 4
 
@@ -113,8 +113,27 @@ Velg riktig svar.
 - [ ] `[ 5, 8, 2, 6, 12 ]`
 - [ ] `[ 5, 2, 8, 6, 12 ]`
 - [ ] `[ 5, 2, 6, 8, 12 ]`
-- [ ] `[ 2, 5, 6, 8, 12 ]`
+- [X] `[ 2, 5, 6, 8, 12 ]`
 
 2. Utvid pseudokoden slik at programmet den representerer, sorterer ferdig listen a i stigende rekkefølge etter altgoritmen som er vist øverst. Forklar endringene du gjør. Obs! Du må også lage pseudokode for funksjonen byttPlass().
 
+SET i TO 0
+SET sortert TO FALSE   
+WHILE NOT sortert      
+  SET sortert TO TRUE  
+  FOR hver i LESSER THAN n - 1
+    IF a[i] GREATER THAN a[i+1]    
+      CALL byttPlass(a[i], a[i+1])  
+      SET sortert TO FALSE  
+    ENDIF
+  ENDFOR
+ENDWHILE
+
+
 3. Implementer pseudokoden fra punkt b i ditt programmeringsspråk. Listen skal leses inn automatisk, og den ferdig sorterte listen skal skrives til konsollet eller vises i programmet.
+
+FUNCTION byttPlass(verdi1, verdi2)
+  TEMPORARY = verdi1
+  verdi1 = verdi2
+  verdi2 = TEMPORARY
+ENDFUNCTION
