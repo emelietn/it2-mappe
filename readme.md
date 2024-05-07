@@ -49,7 +49,8 @@ https://github.com/emelietn/it2-mappe/tree/master/pokemon-spill-%20oppgave
 
 - Gjør oppgave [3.13 - 3.16 (testing)](https://it2.thorcc.no/apputvikling/testing#oppgaver)
 
-TODO Lim inn lenker til besvarelse av oppgaver
+DONE Lim inn lenker til besvarelse av oppgaver
+https://github.com/emelietn/it2-mappe/tree/master/testing
 
 ## Modellering og representasjon
 
@@ -57,7 +58,8 @@ TODO Lim inn lenker til besvarelse av oppgaver
 
 - Lag UML-diagram for et større objektorientert system
 
-TODO Lim inn lenke til UML-diagram  
+DONE Lim inn lenke til UML-diagram  
+https://github.com/emelietn/it2-mappe/blob/master/dino-spill/bilder/Skjermbilde%202023-11-21%20kl.%2014.17.49.png
 
 ### Representasjon av programflyt med kontrollstrukturer
 
